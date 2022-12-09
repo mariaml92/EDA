@@ -13,4 +13,4 @@ Para ello, se van a analizar los siguientes factores:
 
 Las principales fuentes de datos para este análisis han sido la OMS y la FAO.
 
-Para consultar este estudio haz click en el siguiente enlace https://github.com/mariaml92/EDA/memoria/Memoria.pdf
+Para consultar este estudio haz click en el siguiente enlace https://github.com/mariaml92/EDA/src/Memoria/Memoria.pdf
